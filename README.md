@@ -1,9 +1,15 @@
 ## Hi there 👋
-A General Agenti Model with 1 trillion Parameters 
+![olewin_final_logo](https://github.com/user-attachments/assets/e31f2965-7491-4d25-aac3-ba3af74dcb00)
+
+A General Agentic  Model with 1 trillion Parameters 
+
+125 AI-Agentic Models 
 
 Bandaru Mahesh 
 IIT Kharagpur 
 Founder /CEO 
+
+
 Olewin Pvt Ltd 
 
 visit :- https://olewingroup.com/
