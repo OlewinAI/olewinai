@@ -1,6 +1,7 @@
 ## Hi there 👋
-![olewin_final_logo](https://github.com/user-attachments/assets/e31f2965-7491-4d25-aac3-ba3af74dcb00)
+<img width="1807" alt="olewin_lanyard_final" src="https://github.com/user-attachments/assets/b7ab80cd-ccc6-43c8-ba9d-e3dc9e11f907" />
 
+ 
 A General Agentic  Model with 1 trillion Parameters 
 
 125 AI-Agentic Models 
