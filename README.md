@@ -5,7 +5,7 @@
 
 A General Agentic  Model with 1 trillion Parameters 
 
-125 AI-Agentic Models 
+Innfinate Specilised General  AI-Agentic Model from India
 
 Bandaru Mahesh 
 IIT Kharagpur 
